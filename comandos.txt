@@ -1,0 +1,7 @@
+npx create-expo-app nomeProjeto
+cd nomeProjeto
+yarn
+code .
+npx expo start
+
+Parar servidor -> Ctrl + Cnpx 
